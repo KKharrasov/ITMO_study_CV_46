@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Данные и артефакты экспериментов
+data/
+runs/
+outputs/
+*.ckpt
+*.pt
+*.onnx
+
+# macOS
+.DS_Store
